@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1" pages="5">
   <diagram id="O2qTWcCgpEyen09cB9Vq" name="Wykrywanie">
-    <mxGraphModel dx="2211" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="567" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="36csGr2VclgvQf6sPa_q-0" />
         <mxCell id="36csGr2VclgvQf6sPa_q-1" parent="36csGr2VclgvQf6sPa_q-0" />
@@ -164,7 +164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="arB7W-cswd-6OK9oLtKj" name="Analiza">
-    <mxGraphModel dx="1603" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1603" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="-pnCLeIIcDpPo0bB913H-0" />
         <mxCell id="-pnCLeIIcDpPo0bB913H-1" parent="-pnCLeIIcDpPo0bB913H-0" />
@@ -680,7 +680,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j8B70n4qGnBpHLWdDYAs" name="Zatrzymywanie/Usuwanie">
-    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-0" />
         <mxCell id="KZP0MnMaffbDs4WpBaWC-1" parent="KZP0MnMaffbDs4WpBaWC-0" />
@@ -908,7 +908,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3DPnKmbbF0t33Z2JX88r" name="Odzyskiwanie">
-    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="uNoOjs_nZpWFQxZ7lYyd-0" />
         <mxCell id="uNoOjs_nZpWFQxZ7lYyd-1" parent="uNoOjs_nZpWFQxZ7lYyd-0" />
