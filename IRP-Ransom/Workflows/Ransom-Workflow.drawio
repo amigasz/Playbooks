@@ -1,5 +1,5 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1" pages="5">
-  <diagram id="O2qTWcCgpEyen09cB9Vq" name="Detect">
+  <diagram id="O2qTWcCgpEyen09cB9Vq" name="Wykrywanie">
     <mxGraphModel dx="2142" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="36csGr2VclgvQf6sPa_q-0" />
@@ -163,8 +163,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="arB7W-cswd-6OK9oLtKj" name="Analyze">
-    <mxGraphModel dx="1186" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="arB7W-cswd-6OK9oLtKj" name="Analiza">
+    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="-pnCLeIIcDpPo0bB913H-0" />
         <mxCell id="-pnCLeIIcDpPo0bB913H-1" parent="-pnCLeIIcDpPo0bB913H-0" />
@@ -676,8 +676,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="j8B70n4qGnBpHLWdDYAs" name="Contain/Eradicate">
-    <mxGraphModel dx="1186" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="j8B70n4qGnBpHLWdDYAs" name="Zatrzymywanie/Usuwanie">
+    <mxGraphModel dx="443" dy="241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-0" />
         <mxCell id="KZP0MnMaffbDs4WpBaWC-1" parent="KZP0MnMaffbDs4WpBaWC-0" />
@@ -685,15 +685,15 @@
           <mxGeometry x="330" y="354.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-3" value="&lt;div&gt;RC8&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=319;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
-          <mxGeometry x="515" y="354.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="520" y="350" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-4" value="&lt;div&gt;RC5&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=319;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="925" y="145" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-5" value="&lt;h1&gt;Ransom - Contain / Eradicate&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
-          <mxGeometry x="10" y="10" width="370" height="40" as="geometry" />
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-5" value="&lt;h1&gt;Ransomware - zatrzymywanie/usuwanie&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+          <mxGeometry x="10" y="10" width="510" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-6" value="&lt;div&gt;Previous&lt;/div&gt;(Analyze)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Poprzedni(Analiza)&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="24" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-9" edge="1">
@@ -711,13 +711,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-9" value="Block&lt;br&gt;System to Systems Communications" style="whiteSpace=wrap;html=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-9" value="Blokuj&lt;br&gt;komunikację między systemami" style="whiteSpace=wrap;html=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="144" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-yxv-P_o5mp2lQZjK0v-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-11" target="i3tzpPW47tVzorh1bBFK-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-11" value="Stop Backups" style="whiteSpace=wrap;html=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-11" value="Zatrzymywanie tworzenia kopii zapasowych" style="whiteSpace=wrap;html=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="330" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-yxv-P_o5mp2lQZjK0v-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-13" target="KZP0MnMaffbDs4WpBaWC-14" edge="1">
@@ -727,7 +727,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l-yxv-P_o5mp2lQZjK0v-12" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="l-yxv-P_o5mp2lQZjK0v-11" vertex="1" connectable="0">
+        <mxCell id="l-yxv-P_o5mp2lQZjK0v-12" value="Tak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="l-yxv-P_o5mp2lQZjK0v-11" vertex="1" connectable="0">
           <mxGeometry x="-0.6358" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -735,12 +735,12 @@
         <mxCell id="l-yxv-P_o5mp2lQZjK0v-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-13" target="l-yxv-P_o5mp2lQZjK0v-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l-yxv-P_o5mp2lQZjK0v-14" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="l-yxv-P_o5mp2lQZjK0v-13" vertex="1" connectable="0">
+        <mxCell id="l-yxv-P_o5mp2lQZjK0v-14" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="l-yxv-P_o5mp2lQZjK0v-13" vertex="1" connectable="0">
           <mxGeometry x="-0.5319" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-13" value="Malware Infection?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-13" value="Infekcja malware?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="910" y="150" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="l-yxv-P_o5mp2lQZjK0v-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-14" target="l-yxv-P_o5mp2lQZjK0v-5" edge="1">
@@ -751,7 +751,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-14" value="&lt;div&gt;Run Malware&lt;/div&gt;&lt;div&gt;Playbook&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-14" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Uruchom playbook&lt;br&gt;Malware&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="1050" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-34" target="KZP0MnMaffbDs4WpBaWC-22" edge="1">
@@ -767,21 +767,26 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="24Tr0Ieqd9vPAmo3wSQd-3" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KZP0MnMaffbDs4WpBaWC-18">
+          <mxGeometry x="-0.0189" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-22" target="KZP0MnMaffbDs4WpBaWC-29" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="521" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="570" y="601" />
+              <mxPoint x="585" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-21" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KZP0MnMaffbDs4WpBaWC-20" vertex="1" connectable="0">
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-21" value="Tak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KZP0MnMaffbDs4WpBaWC-20" vertex="1" connectable="0">
           <mxGeometry x="-0.8554" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-22" value="&lt;div&gt;All Affected &lt;br&gt;&lt;/div&gt;&lt;div&gt;Endpoints &lt;br&gt;&lt;/div&gt;&lt;div&gt;Contained&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
-          <mxGeometry x="505" y="354.5" width="130" height="110" as="geometry" />
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-22" value="&lt;font&gt;Wszystkie&lt;/font&gt;&lt;div&gt;&lt;font&gt;&amp;nbsp;narażone hosty zabezpieczone przed rozprzestrzenieniem?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;Atak powstrzymany?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+          <mxGeometry x="497.5" y="331.75" width="175" height="155.5" as="geometry" />
         </mxCell>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-28" target="KZP0MnMaffbDs4WpBaWC-30" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -790,7 +795,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-26" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KZP0MnMaffbDs4WpBaWC-25" vertex="1" connectable="0">
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-26" value="Tak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KZP0MnMaffbDs4WpBaWC-25" vertex="1" connectable="0">
           <mxGeometry x="-0.5407" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -803,25 +808,33 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-28" value="&lt;div&gt;New IOC&lt;/div&gt;&lt;div&gt;Discovered&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="24Tr0Ieqd9vPAmo3wSQd-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-28" target="KZP0MnMaffbDs4WpBaWC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sPZP_YxoIenVSE4n-hlU-1" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="24Tr0Ieqd9vPAmo3wSQd-0">
+          <mxGeometry x="-0.1556" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-28" value="&lt;div&gt;Odkryty nowy wskaźnik włamania/ kompromitacji-&lt;/div&gt;&lt;div&gt;IOC?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="320" y="354.5" width="130" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-29" value="&lt;div&gt;Next&lt;/div&gt;(Recover)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-29" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dalej&lt;br&gt;(Odzyskiwanie)&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="960" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-30" value="&lt;div&gt;Previous&lt;/div&gt;(Analyze)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipV=0;flipH=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-30" value="&lt;div&gt;Poprzedni&lt;br&gt;&amp;nbsp;(analiza)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;flipV=0;flipH=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="75" y="581" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-31" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Local Firewall&lt;/li&gt;&lt;li&gt;AV/EDR Firewall&lt;/li&gt;&lt;li&gt;Contain Host&lt;/li&gt;&lt;li&gt;Shutdown Network Interface&amp;nbsp;&lt;/li&gt;&lt;li&gt;etc.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
-          <mxGeometry x="110" y="235" width="210" height="100" as="geometry" />
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-31" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Na lokalnym firewallu&lt;/li&gt;&lt;li&gt;Firewall w systemach AV/EDR&lt;/li&gt;&lt;li&gt;Na hostach&lt;/li&gt;&lt;li&gt;Wyłącz karty sieciowe&amp;nbsp;&lt;/li&gt;&lt;li&gt;etc.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+          <mxGeometry x="105" y="230" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-32" value="&lt;br&gt;&lt;div align=&quot;justify&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="415" y="265" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-33" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Monitor for:&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Lateral Movement&lt;/li&gt;&lt;li&gt;Privilege Escalation&lt;/li&gt;&lt;li&gt;IOCs&lt;br&gt;&lt;/li&gt;&lt;li&gt;etc.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
-          <mxGeometry x="670" y="435" width="200" height="100" as="geometry" />
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-33" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Monitorowanie pod kątem:&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;Ruchów poprzecznych&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;Eskalacji uprawnień&lt;/span&gt;&lt;/li&gt;&lt;li&gt;IOCs&lt;br&gt;&lt;/li&gt;&lt;li&gt;etc.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+          <mxGeometry x="660" y="430" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-34" value="&lt;div&gt;&lt;span&gt;Monitor&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Closely&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-34" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Baczna obserwacja&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="710" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-35" value="RC1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
@@ -841,13 +854,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZP0MnMaffbDs4WpBaWC-38" value="Update Scope" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="KZP0MnMaffbDs4WpBaWC-38" value="Aktualizacja zakresu" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="144" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="l-yxv-P_o5mp2lQZjK0v-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="KZP0MnMaffbDs4WpBaWC-1" source="i3tzpPW47tVzorh1bBFK-0" target="l-yxv-P_o5mp2lQZjK0v-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i3tzpPW47tVzorh1bBFK-0" value="Powerdown NON Encrypted Systems" style="whiteSpace=wrap;html=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="i3tzpPW47tVzorh1bBFK-0" value="Wyłączanie systemów jeszcze nie zaszyfrowanych" style="whiteSpace=wrap;html=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="510" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3tzpPW47tVzorh1bBFK-1" value="RC3" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
@@ -856,34 +869,34 @@
         <mxCell id="l-yxv-P_o5mp2lQZjK0v-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="KZP0MnMaffbDs4WpBaWC-1" source="l-yxv-P_o5mp2lQZjK0v-0" target="KZP0MnMaffbDs4WpBaWC-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l-yxv-P_o5mp2lQZjK0v-0" value="Disconnect Share Drives" style="whiteSpace=wrap;html=1;align=center;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="l-yxv-P_o5mp2lQZjK0v-0" value="Odłączanie dysków współdzielonych" style="whiteSpace=wrap;html=1;align=center;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="710" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-yxv-P_o5mp2lQZjK0v-1" value="RC4" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="710" y="145" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l-yxv-P_o5mp2lQZjK0v-2" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Check Status of &lt;br&gt;Snapshots&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
-          <mxGeometry x="300" y="235" width="140" height="60" as="geometry" />
+        <mxCell id="l-yxv-P_o5mp2lQZjK0v-2" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Sprawdź status snapshotów&lt;/li&gt;&lt;li&gt;Status VSS&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+          <mxGeometry x="280" y="221.75" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="l-yxv-P_o5mp2lQZjK0v-3" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;If possible powerdown the &lt;br&gt;systems that are not encrypted&lt;/li&gt;&lt;li&gt;Do NOT powerdown encrypted&lt;br&gt;systems as they might not restart&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
-          <mxGeometry x="470" y="235" width="230" height="90" as="geometry" />
+        <mxCell id="l-yxv-P_o5mp2lQZjK0v-3" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Jeżeli możliwe - wyłącz&lt;br&gt;&amp;nbsp;niezaszyfrowane hosty&lt;/li&gt;&lt;li&gt;NIE wyłączaj zaszyfrowanych&lt;br&gt;systemów, ponieważ mogą nie&lt;br&gt;uruchomić się ponownie&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+          <mxGeometry x="455" y="221.75" width="230" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wRKFHPyEoHBxFR2AAolj-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="KZP0MnMaffbDs4WpBaWC-1" source="l-yxv-P_o5mp2lQZjK0v-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l-yxv-P_o5mp2lQZjK0v-5" value="Active Directory Clean Up" style="whiteSpace=wrap;html=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+        <mxCell id="l-yxv-P_o5mp2lQZjK0v-5" value="Oczyszczenie Active Directory" style="whiteSpace=wrap;html=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="915" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l-yxv-P_o5mp2lQZjK0v-6" value="RC6" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="915" y="350" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="l-yxv-P_o5mp2lQZjK0v-7" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Change kbrtgt Password x2&lt;/li&gt;&lt;li&gt;Reset All Privilege Accounts&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
-          <mxGeometry x="890" y="440" width="200" height="60" as="geometry" />
+        <mxCell id="l-yxv-P_o5mp2lQZjK0v-7" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Zmień hasło krbtgt dwa razy&lt;/li&gt;&lt;li&gt;Zmień hasła wszystkich kont uprzywilejowanych&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+          <mxGeometry x="855" y="440" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wRKFHPyEoHBxFR2AAolj-4" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;All shared drive must &lt;br&gt;be disconnected&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
-          <mxGeometry x="685" y="235" width="170" height="60" as="geometry" />
+        <mxCell id="wRKFHPyEoHBxFR2AAolj-4" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Wszystkie dyski współdzielone&lt;br&gt;muszą być odłączone&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
+          <mxGeometry x="642.5" y="226.75" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5jnC53UV2D_umLfoQKFg-0" value="&lt;font style=&quot;font-size: 10px&quot;&gt;RC10&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
           <mxGeometry x="144" y="340" width="30" height="30" as="geometry" />
@@ -891,8 +904,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="3DPnKmbbF0t33Z2JX88r" name="Recover">
-    <mxGraphModel dx="1186" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="3DPnKmbbF0t33Z2JX88r" name="Odzyskiwanie">
+    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="uNoOjs_nZpWFQxZ7lYyd-0" />
         <mxCell id="uNoOjs_nZpWFQxZ7lYyd-1" parent="uNoOjs_nZpWFQxZ7lYyd-0" />
@@ -945,14 +958,14 @@
             <mxPoint x="-1" y="-11.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-10" value="&lt;h1&gt;Ransom - Recover&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
-          <mxGeometry x="10" y="10" width="290" height="40" as="geometry" />
+        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-10" value="&lt;h1&gt;Ransomware - Odzyskiwanie&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+          <mxGeometry x="10" y="10" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uNoOjs_nZpWFQxZ7lYyd-11" value="&lt;div&gt;Next&lt;/div&gt;(Post Incident)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="880" y="580" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-12" value="&lt;div&gt;Previous&lt;/div&gt;(Cont./Erad.)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
-          <mxGeometry x="24" y="60" width="120" height="40" as="geometry" />
+        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-12" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Poprzedni (zatrzymywanie/usuwanie&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+          <mxGeometry x="24" y="60" width="196" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toqI_Zj7t0s_2hl76Pep-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" source="uNoOjs_nZpWFQxZ7lYyd-13" target="uNoOjs_nZpWFQxZ7lYyd-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
