@@ -926,12 +926,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rvAQiAtRHftjp3YUlVIJ-5" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rvAQiAtRHftjp3YUlVIJ-4" vertex="1" connectable="0">
+        <mxCell id="rvAQiAtRHftjp3YUlVIJ-5" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rvAQiAtRHftjp3YUlVIJ-4" vertex="1" connectable="0">
           <mxGeometry x="-0.84" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-4" value="&lt;div&gt;All Affected &lt;br&gt;&lt;/div&gt;&lt;div&gt;Enpoints &lt;br&gt;&lt;/div&gt;&lt;div&gt;ID&#39;ed&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-4" value="&lt;div&gt;Wszystkie końcówki/hosty zidentyfikowane?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="440" y="405" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="uNoOjs_nZpWFQxZ7lYyd-5" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" target="uNoOjs_nZpWFQxZ7lYyd-13" edge="1">
@@ -953,7 +953,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-9" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uNoOjs_nZpWFQxZ7lYyd-8" vertex="1" connectable="0">
+        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-9" value="Tak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uNoOjs_nZpWFQxZ7lYyd-8" vertex="1" connectable="0">
           <mxGeometry x="-0.8222" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="-11.5" as="offset" />
           </mxGeometry>
@@ -961,7 +961,7 @@
         <mxCell id="uNoOjs_nZpWFQxZ7lYyd-10" value="&lt;h1&gt;Ransomware - Odzyskiwanie&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="10" y="10" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-11" value="&lt;div&gt;Next&lt;/div&gt;(Post Incident)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-11" value="Następny|&lt;br&gt;(po incydencie)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="880" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uNoOjs_nZpWFQxZ7lYyd-12" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Poprzedni (zatrzymywanie/usuwanie&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
@@ -970,7 +970,7 @@
         <mxCell id="toqI_Zj7t0s_2hl76Pep-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" source="uNoOjs_nZpWFQxZ7lYyd-13" target="uNoOjs_nZpWFQxZ7lYyd-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-13" value="Update &lt;br&gt;Defenses" style="whiteSpace=wrap;html=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-13" value="Aktualizacja&lt;br&gt;zabezpieczeń" style="whiteSpace=wrap;html=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uNoOjs_nZpWFQxZ7lYyd-17" value="RR1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
@@ -979,23 +979,23 @@
         <mxCell id="toqI_Zj7t0s_2hl76Pep-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" source="uNoOjs_nZpWFQxZ7lYyd-20" target="uNoOjs_nZpWFQxZ7lYyd-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-20" value="Change All Passwords" style="rounded=0;whiteSpace=wrap;html=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-20" value="Zmień wszystkie hasła" style="rounded=0;whiteSpace=wrap;html=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="440" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IJ6cZkXUIdS8VOiS5yHz-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" source="uNoOjs_nZpWFQxZ7lYyd-22" target="Il-XjjSzzvxkX9Hlfuqu-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-22" value="Remove" style="rounded=0;whiteSpace=wrap;html=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+        <mxCell id="uNoOjs_nZpWFQxZ7lYyd-22" value="Usuwanie" style="rounded=0;whiteSpace=wrap;html=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="640" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eVGTT5rixgvdxtt0i7UD-0" value="RR2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="440" y="120" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="toqI_Zj7t0s_2hl76Pep-0" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Change krbtgt Password&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Reset All Priviledge Accounts&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
-          <mxGeometry x="405" y="210" width="210" height="60" as="geometry" />
+        <mxCell id="toqI_Zj7t0s_2hl76Pep-0" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Zmień hasło krbtgt&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center;&quot;&gt;Zresetuj hasła do kont&lt;br&gt;uprzywilejowanych&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+          <mxGeometry x="420" y="200" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="toqI_Zj7t0s_2hl76Pep-2" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;VPN&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Jumpbox&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Citrix&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
-          <mxGeometry x="610" y="210" width="100" height="70" as="geometry" />
+          <mxGeometry x="650" y="210" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Il-XjjSzzvxkX9Hlfuqu-0" value="RR3" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="640" y="120" width="30" height="30" as="geometry" />
@@ -1008,35 +1008,35 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Il-XjjSzzvxkX9Hlfuqu-1" value="Rebuild Systems" style="rounded=0;whiteSpace=wrap;html=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+        <mxCell id="Il-XjjSzzvxkX9Hlfuqu-1" value="Odbudowa systemów" style="rounded=0;whiteSpace=wrap;html=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="840" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Il-XjjSzzvxkX9Hlfuqu-2" value="RR4" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="840" y="120" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Il-XjjSzzvxkX9Hlfuqu-3" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Install OS from Clean Media&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Can we upgrade OS?&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
-          <mxGeometry x="810" y="210" width="210" height="60" as="geometry" />
+        <mxCell id="Il-XjjSzzvxkX9Hlfuqu-3" value="&lt;ul&gt;&lt;li&gt;&lt;span&gt;Zainstaluj system operacyjny z &lt;br&gt;czystego nośnika&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Czy możemy zaktualizować&lt;br&gt;&amp;nbsp;system operacyjny?&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+          <mxGeometry x="810" y="190" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="rvAQiAtRHftjp3YUlVIJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" source="IJ6cZkXUIdS8VOiS5yHz-1" target="uNoOjs_nZpWFQxZ7lYyd-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IJ6cZkXUIdS8VOiS5yHz-1" value="Restore Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+        <mxCell id="IJ6cZkXUIdS8VOiS5yHz-1" value="Przywracanie danych" style="rounded=0;whiteSpace=wrap;html=1;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="735" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IJ6cZkXUIdS8VOiS5yHz-2" value="RR5" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
           <mxGeometry x="735" y="400" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IJ6cZkXUIdS8VOiS5yHz-4" value="&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;From Clean Backup&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
-          <mxGeometry x="710" y="490" width="160" height="40" as="geometry" />
+        <mxCell id="IJ6cZkXUIdS8VOiS5yHz-4" value="&lt;ul&gt;&lt;li style=&quot;text-align: left&quot;&gt;Z czystego backupu&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+          <mxGeometry x="705" y="485" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="rvAQiAtRHftjp3YUlVIJ-0" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;Lift Containment&lt;/li&gt;&lt;li&gt;Proxy&lt;/li&gt;&lt;li&gt;Firewall&lt;/li&gt;&lt;li&gt;Reconnect Shared Drive&lt;/li&gt;&lt;li&gt;Re-enable Backup Links&lt;/li&gt;&lt;li&gt;Enable Network Interfaces&lt;/li&gt;&lt;li&gt;Update AV/EDR&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Engine&lt;/li&gt;&lt;li&gt;Policies&lt;/li&gt;&lt;li&gt;Definitions&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;etc.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
-          <mxGeometry x="210" y="210" width="200" height="180" as="geometry" />
+        <mxCell id="rvAQiAtRHftjp3YUlVIJ-0" value="&lt;ul&gt;&lt;li&gt;Zwolnienie z kwarantanny&amp;nbsp;&lt;/li&gt;&lt;li&gt;Blokowanie przez proxy&lt;/li&gt;&lt;li&gt;Reguły firewall&lt;/li&gt;&lt;li&gt;Ponowne podłączanie dysków współdzielonych&lt;/li&gt;&lt;li&gt;Ponowne włączanie łączy kopii zapasowych&lt;/li&gt;&lt;li&gt;Włączenie interfejsów sieciowych&lt;/li&gt;&lt;li&gt;Aktualizacja AV/EDR&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Silnik&lt;/li&gt;&lt;li&gt;Manifest&lt;/li&gt;&lt;li&gt;Definicje&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;itd.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="uNoOjs_nZpWFQxZ7lYyd-1" vertex="1">
+          <mxGeometry x="210" y="200" width="310" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="iFfWp4zxMLp3JL1bCDCJ" name="Post Incident">
-    <mxGraphModel dx="1186" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+  <diagram id="iFfWp4zxMLp3JL1bCDCJ" name="Po incydencie">
+    <mxGraphModel dx="595" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="KQ6ddqPjCaDnHBi0Ce0M-0" />
         <mxCell id="KQ6ddqPjCaDnHBi0Ce0M-1" parent="KQ6ddqPjCaDnHBi0Ce0M-0" />
@@ -1060,7 +1060,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-4" value="Review Defensive Posture" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-4" value="Przegląd postawy obronnej" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
           <mxGeometry x="620" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-5" value="&lt;div&gt;Stop&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
@@ -1069,7 +1069,7 @@
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" source="Tny-0nx75FtS5ZL5CtNR-7" target="Tny-0nx75FtS5ZL5CtNR-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-7" value="&lt;div&gt;Update Policies &amp;amp;&lt;/div&gt;&lt;div&gt;Procedures&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;sketch=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Aktualizacja polityk i procedur&lt;/span&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;sketch=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
           <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-8" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" target="Tny-0nx75FtS5ZL5CtNR-11" edge="1">
@@ -1087,43 +1087,43 @@
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" source="Tny-0nx75FtS5ZL5CtNR-11" target="Tny-0nx75FtS5ZL5CtNR-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-11" value="&lt;div&gt;Incident&lt;/div&gt;&lt;div&gt;Review&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-11" value="&lt;div&gt;Przegląd incydentu&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
           <mxGeometry x="184" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-12" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;What Worked&lt;/li&gt;&lt;li&gt;What Didn&#39;t Work&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
-          <mxGeometry x="154" y="220" width="150" height="60" as="geometry" />
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-12" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Co zadziałało&lt;/li&gt;&lt;li&gt;&lt;font&gt;Co nie zadziałało&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+          <mxGeometry x="154" y="215" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-13" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Documentations:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Policies&lt;/li&gt;&lt;li&gt;Playbooks&lt;/li&gt;&lt;li&gt;Runbooks&lt;br&gt;&lt;/li&gt;&lt;li&gt;Procedures&lt;/li&gt;&lt;li&gt;etc.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Detection Rules:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;SIEM&lt;/li&gt;&lt;li&gt;AV / EDR&lt;/li&gt;&lt;li&gt;Other security solution&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
-          <mxGeometry x="370" y="220" width="210" height="170" as="geometry" />
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-13" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Dokumentacje:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Manifest&lt;/li&gt;&lt;li&gt;Podręczniki&lt;/li&gt;&lt;li&gt;&lt;font&gt;Elementy Runbooka&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Procedury&lt;/li&gt;&lt;li&gt;itd.&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Zasady wykrywania:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;SIEM (SIEM)&lt;/li&gt;&lt;li&gt;AV / EDR&lt;/li&gt;&lt;li&gt;&lt;font&gt;Inne rozwiązanie zabezpieczające&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+          <mxGeometry x="330" y="205" width="290" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-14" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Schedule review of newly&lt;br&gt;introduced rules in 6 months&lt;/li&gt;&lt;li&gt;Are the following still applicable&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;AV / EDR custom sigs&lt;br&gt;&lt;/li&gt;&lt;li&gt;IPS sigs&lt;/li&gt;&lt;li&gt;Etc.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
-          <mxGeometry x="585" y="220" width="220" height="110" as="geometry" />
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-14" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Zaplanuj przegląd nowo&lt;br&gt;wprowadzonych zasad w ciągu 6 miesięcy&lt;/li&gt;&lt;li&gt;&lt;font&gt;Czy następujące elementy nadal mają&lt;br&gt;&amp;nbsp;zastosowanie?&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;Niestandardowe sygnatury AV / EDR&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Sygnatury IPS&lt;/li&gt;&lt;li&gt;&lt;font&gt;Itd.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+          <mxGeometry x="530" y="215" width="300" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" source="Tny-0nx75FtS5ZL5CtNR-16" target="Tny-0nx75FtS5ZL5CtNR-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-16" value="&lt;div&gt;Update / Upgrade&lt;br&gt;Defences&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-16" value="Aktualizuj ochronę" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
           <mxGeometry x="620" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-17" value="&lt;div&gt;Modify&lt;/div&gt;&lt;div&gt;Base Images&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-17" value="&lt;div&gt;Modyfikacja szablonów obrazów&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
           <mxGeometry x="184" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" source="Tny-0nx75FtS5ZL5CtNR-19" target="Tny-0nx75FtS5ZL5CtNR-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-19" value="Build New&lt;br&gt;Detections" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-19" value="Zbuduj nowe detekcje" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
           <mxGeometry x="400" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" source="Tny-0nx75FtS5ZL5CtNR-21" target="Tny-0nx75FtS5ZL5CtNR-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-21" value="&lt;div&gt;Calculate&lt;/div&gt;&lt;div&gt;Incident&#39;s&lt;/div&gt;&lt;div&gt;Cost&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-21" value="&lt;div&gt;Oblicz koszt incydentu&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
           <mxGeometry x="400" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" source="Tny-0nx75FtS5ZL5CtNR-25" target="Tny-0nx75FtS5ZL5CtNR-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-23" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Tny-0nx75FtS5ZL5CtNR-22" vertex="1" connectable="0">
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-23" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Tny-0nx75FtS5ZL5CtNR-22" vertex="1" connectable="0">
           <mxGeometry x="-0.2083" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1131,8 +1131,8 @@
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-24" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" source="Tny-0nx75FtS5ZL5CtNR-25" target="Tny-0nx75FtS5ZL5CtNR-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-25" value="&lt;div&gt;Incident &lt;br&gt;&lt;/div&gt;&lt;div&gt;Cause&lt;/div&gt;&lt;div&gt;by Human&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
-          <mxGeometry x="174" y="565" width="130" height="110" as="geometry" />
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-25" value="&lt;div&gt;&lt;font&gt;Incydent spowodowany przez czynnik ludzki?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+          <mxGeometry x="189" y="565" width="130" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" source="Tny-0nx75FtS5ZL5CtNR-17" target="Tny-0nx75FtS5ZL5CtNR-25" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1147,7 +1147,7 @@
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" source="Tny-0nx75FtS5ZL5CtNR-28" target="Tny-0nx75FtS5ZL5CtNR-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-28" value="&lt;div&gt;User Awareness&lt;/div&gt;&lt;div&gt;Training&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-28" value="&lt;div&gt;Szkolenie podnoszące świadomość pracowników&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
           <mxGeometry x="179" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-29" value="RP1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
@@ -1174,14 +1174,14 @@
         <mxCell id="Tny-0nx75FtS5ZL5CtNR-36" value="RP8" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#E6E6E6;rotation=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
           <mxGeometry x="179" y="710" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-37" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Anti-Virus&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Signature&lt;/li&gt;&lt;li&gt;Engine&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;EDR&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Behavior of the malware&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Anti-Spam / Anti-Phish&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
-          <mxGeometry x="580" y="460" width="220" height="110" as="geometry" />
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-37" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Antywirus&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Podpis&lt;/li&gt;&lt;li&gt;Silnik&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;EDR&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Zachowanie złośliwego oprogramowania&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Ochrona przed spamem / Anti-Phish&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+          <mxGeometry x="530" y="455" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-38" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;SIEM Rules&lt;/li&gt;&lt;li&gt;Tickets&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
-          <mxGeometry x="375" y="460" width="120" height="60" as="geometry" />
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-38" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Reguły SIEM&lt;/li&gt;&lt;li&gt;Formularze&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+          <mxGeometry x="370" y="455" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Tny-0nx75FtS5ZL5CtNR-39" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Review Hardening Process&lt;/li&gt;&lt;li&gt;Include Patch in OS Images&lt;/li&gt;&lt;li&gt;Upgrade Apps&lt;/li&gt;&lt;li&gt;Patch Apps&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
-          <mxGeometry x="154" y="460" width="200" height="90" as="geometry" />
+        <mxCell id="Tny-0nx75FtS5ZL5CtNR-39" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Przejrzyj proces wzmacniania systemów&lt;/li&gt;&lt;li&gt;Dołącz poprawki do obrazów &lt;br&gt;systemu operacyjnego&lt;/li&gt;&lt;li&gt;Uaktualnianie aplikacji&lt;/li&gt;&lt;li&gt;Łatanie aplikacji&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="KQ6ddqPjCaDnHBi0Ce0M-1" vertex="1">
+          <mxGeometry x="114" y="450" width="280" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
