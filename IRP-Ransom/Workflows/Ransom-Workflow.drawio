@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="25.0.1" pages="5">
   <diagram id="O2qTWcCgpEyen09cB9Vq" name="Wykrywanie">
-    <mxGraphModel dx="2142" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="36csGr2VclgvQf6sPa_q-0" />
         <mxCell id="36csGr2VclgvQf6sPa_q-1" parent="36csGr2VclgvQf6sPa_q-0" />
@@ -97,14 +97,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8FYlF9s0BS1aPLCYh2ih-24" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Zgłoszenia mailów/aplikacja SOL&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;SIEM (SIEM)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Alerty AV / EDR&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Raporty (DNS, serwer proxy sieci Web)&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="36csGr2VclgvQf6sPa_q-1" vertex="1">
+        <mxCell id="8FYlF9s0BS1aPLCYh2ih-24" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Zgłoszenia mailem/aplikacja SOL&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;SIEM (SIEM)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Alerty AV / EDR&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;text-align: center&quot;&gt;Raporty (DNS, serwer proxy sieci Web)&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="36csGr2VclgvQf6sPa_q-1" vertex="1">
           <mxGeometry x="-14" y="138" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="8FYlF9s0BS1aPLCYh2ih-25" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;Od użytkowników&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Od adresatów&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Od stron trzecich&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Dostawca usług internetowych &lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Dostawca poczty&lt;/li&gt;&lt;li&gt;Komputer&amp;nbsp;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Jest powolny&lt;/li&gt;&lt;li&gt;Nieoczekiwana awaria&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="36csGr2VclgvQf6sPa_q-1" vertex="1">
           <mxGeometry x="675" y="133" width="230" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8FYlF9s0BS1aPLCYh2ih-26" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;Kradzież tożsamośc&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Dostarczanie złośliwego oprogramowania&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Działalność kryminalna&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Straty finansowe&lt;/li&gt;&lt;li&gt;Szantaż/okup&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="36csGr2VclgvQf6sPa_q-1" vertex="1">
-          <mxGeometry x="-29" y="290" width="280" height="110" as="geometry" />
+        <mxCell id="8FYlF9s0BS1aPLCYh2ih-26" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;Kradzież tożsamości&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Dostarczanie złośliwego&lt;br&gt;&amp;nbsp;oprogramowania&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Działalność kryminalna&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Straty finansowe&lt;/li&gt;&lt;li&gt;Szantaż/okup&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="36csGr2VclgvQf6sPa_q-1" vertex="1">
+          <mxGeometry x="16" y="285" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8FYlF9s0BS1aPLCYh2ih-27" value="&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;Utrata reputacji&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Straty finansowe&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Utracona umowa/odnowienie&lt;/li&gt;&lt;li&gt;&lt;font&gt;Niższa oferta dla naszych klientów&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;Grzywny (rozporządzenie)&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="36csGr2VclgvQf6sPa_q-1" vertex="1">
           <mxGeometry x="655" y="295" width="290" height="110" as="geometry" />
@@ -164,7 +164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="arB7W-cswd-6OK9oLtKj" name="Analiza">
-    <mxGraphModel dx="719" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1603" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="-pnCLeIIcDpPo0bB913H-0" />
         <mxCell id="-pnCLeIIcDpPo0bB913H-1" parent="-pnCLeIIcDpPo0bB913H-0" />
@@ -195,7 +195,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-pnCLeIIcDpPo0bB913H-14" value="&lt;h1&gt;Ransom - Analyze&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="-pnCLeIIcDpPo0bB913H-1" vertex="1">
+        <mxCell id="-pnCLeIIcDpPo0bB913H-14" value="&lt;h1&gt;Ransomware - analiza&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="-pnCLeIIcDpPo0bB913H-1" vertex="1">
           <mxGeometry x="10" y="10" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-pnCLeIIcDpPo0bB913H-15" value="&lt;div&gt;Następny&lt;br&gt;(Zatrzymywanie/usuwanie)&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="-pnCLeIIcDpPo0bB913H-1" vertex="1">
@@ -680,7 +680,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="j8B70n4qGnBpHLWdDYAs" name="Zatrzymywanie/Usuwanie">
-    <mxGraphModel dx="443" dy="241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-0" />
         <mxCell id="KZP0MnMaffbDs4WpBaWC-1" parent="KZP0MnMaffbDs4WpBaWC-0" />
@@ -697,7 +697,7 @@
           <mxGeometry x="10" y="10" width="510" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-6" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Poprzedni(Analiza)&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="KZP0MnMaffbDs4WpBaWC-1" vertex="1">
-          <mxGeometry x="24" y="60" width="120" height="40" as="geometry" />
+          <mxGeometry x="24" y="60" width="146" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KZP0MnMaffbDs4WpBaWC-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -770,7 +770,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24Tr0Ieqd9vPAmo3wSQd-3" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KZP0MnMaffbDs4WpBaWC-18">
+        <mxCell id="24Tr0Ieqd9vPAmo3wSQd-3" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KZP0MnMaffbDs4WpBaWC-18" vertex="1" connectable="0">
           <mxGeometry x="-0.0189" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -811,10 +811,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24Tr0Ieqd9vPAmo3wSQd-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-28" target="KZP0MnMaffbDs4WpBaWC-38">
+        <mxCell id="24Tr0Ieqd9vPAmo3wSQd-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="KZP0MnMaffbDs4WpBaWC-1" source="KZP0MnMaffbDs4WpBaWC-28" target="KZP0MnMaffbDs4WpBaWC-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sPZP_YxoIenVSE4n-hlU-1" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="24Tr0Ieqd9vPAmo3wSQd-0">
+        <mxCell id="sPZP_YxoIenVSE4n-hlU-1" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="24Tr0Ieqd9vPAmo3wSQd-0" vertex="1" connectable="0">
           <mxGeometry x="-0.1556" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
