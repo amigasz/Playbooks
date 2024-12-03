@@ -135,7 +135,7 @@
         <mxCell id="8FYlF9s0BS1aPLCYh2ih-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="36csGr2VclgvQf6sPa_q-1" source="8FYlF9s0BS1aPLCYh2ih-48" target="8FYlF9s0BS1aPLCYh2ih-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8FYlF9s0BS1aPLCYh2ih-45" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8FYlF9s0BS1aPLCYh2ih-44" vertex="1" connectable="0">
+        <mxCell id="8FYlF9s0BS1aPLCYh2ih-45" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8FYlF9s0BS1aPLCYh2ih-44" vertex="1" connectable="0">
           <mxGeometry x="-0.7326" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -143,7 +143,7 @@
         <mxCell id="8FYlF9s0BS1aPLCYh2ih-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="36csGr2VclgvQf6sPa_q-1" source="8FYlF9s0BS1aPLCYh2ih-48" target="8FYlF9s0BS1aPLCYh2ih-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8FYlF9s0BS1aPLCYh2ih-47" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8FYlF9s0BS1aPLCYh2ih-46" vertex="1" connectable="0">
+        <mxCell id="8FYlF9s0BS1aPLCYh2ih-47" value="Tak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="8FYlF9s0BS1aPLCYh2ih-46" vertex="1" connectable="0">
           <mxGeometry x="-0.3663" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -164,7 +164,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="arB7W-cswd-6OK9oLtKj" name="Analiza">
-    <mxGraphModel dx="1603" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1603" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="-pnCLeIIcDpPo0bB913H-0" />
         <mxCell id="-pnCLeIIcDpPo0bB913H-1" parent="-pnCLeIIcDpPo0bB913H-0" />
